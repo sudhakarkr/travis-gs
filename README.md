@@ -1,2 +1,2 @@
 # travis-gs
-Getting Started Travis
+Getting Started Travis Project
